@@ -100,7 +100,23 @@ footer{
 
 
 @media only screen and (max-width: 500px) {
-   
+    .nav{
+        flex-direction: column;
+        font-size: small;
+    }
+    .Web-imgage{
+    width: 50px;
+    height:50px;
+    }
+    .gallery{
+        flex-direction: column;
+        margin-bottom:320px;
+    }
+        
+    .contact{
+        flex-direction: column;
+        font-size: small;
+    }
 
    }
 
