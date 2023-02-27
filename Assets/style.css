@@ -93,11 +93,15 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+.web-image{
+    display: flex;
+    flex-direction: column;
+}
 .contact{
     display: flex;
 }
 
-
+/*  CSS MEDIA QUERIES FOR PHONE*/
 
 @media only screen and (max-width: 500px) {
     .nav{
@@ -105,20 +109,24 @@ footer{
         font-size: small;
     }
     .web-image{
-    width: 300px;
-    height:200px;
+    display: flex;
+    width: 250px;
+    height: 150px;
     }
     .gallery{
         flex-direction: column;
-        margin-bottom:320px;
-    }
+        margin-bottom: 300px;
         
+        
+    }    
+    footer{
+        margin-bottom: 300px;
+    
+    }
     .contact{
         flex-direction: column;
         font-size: small;
+        
     }
 
    }
-
-   
-  
