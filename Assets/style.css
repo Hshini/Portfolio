@@ -104,9 +104,9 @@ footer{
         flex-direction: column;
         font-size: small;
     }
-    .Web-imgage{
-    width: 50px;
-    height:50px;
+    .web-image{
+    width: 300px;
+    height:200px;
     }
     .gallery{
         flex-direction: column;
