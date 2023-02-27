@@ -11,23 +11,25 @@
     <!-- header  -->
     <header>
         <div class="name">
-            <h3>Halim Shini</h3>
+            <h3>Halim Shini</h3> 
         </div>
         <nav>
             <ul>
-                <li><a href="#">About Me</a></li>
-                <li><a href="#">Work</a></li>
-                <li><a href="#">Contact Me</a></li>
-                <li><a href="#">Resume</a></li>
+                <li><a href="#About">About Me</a></li>
+                <li><a href="#Gallery">Work</a></li>
+                <li><a href="#Contact-me">Contact Me</a></li>
+                <li><a href="#Profile-Picture">Resume</a></li>
             </ul>
         </nav>
     </header>
     
-    <section></section>
+    <section id="Profile-Picture" class="profile-picture"> <img src="./Assets/Images/thumbnail_DSC_0264 (1).jpg" width="200px" height="200px" alt="Profile Picture">
+    </section>
+    <section>
        <img class="web-image" src="./Assets/Images/pic-1.jpg" alt="Web Development">
     </section>
 
-    <section class="about">
+    <section id="About" class="about">
         <div> 
             <h1>About Me</h1>
         </div>
@@ -40,7 +42,7 @@
 
     <section class="work">
          <h1>Work</h1>
-        <div class="gallery"> 
+        <div id="Gallery" class="gallery"> 
             <img class="galleryimg" src="./Assets/Images/html.png" alt="HTML">
             <img class="galleryimg" src="./Assets/Images/css.png" alt="CSS">
             <img class="galleryimg" src="./Assets/Images/java-script.png" alt="javascript">
@@ -51,7 +53,7 @@
         <div>
             <h1>Contact Me:</h1>
         </div>
-        <div>
+        <div id="Contact-me" class="contact-me">
             <ul class="contact">
                 <li><a href="#">555.555.555</a></li>
                 <li><a href="#">halimshini@hotmail.com</a></li>

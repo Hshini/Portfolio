@@ -6,7 +6,10 @@
     font-family:'Poppins',sans-serif;
 
 }
-
+.profile-picture{
+ display:flex;
+ justify-content: center;
+}
 header{
     
     display: flex;
@@ -16,6 +19,7 @@ header{
 
 
 .name{
+    display: fle;
     color: rgb(107, 62, 62);
     padding-left: 8px;
     font-size: 30px;
@@ -36,9 +40,16 @@ ul{
     line-height: 50px;
     
 }
+img{
+    display: flex;
+}
 
+a{
+    display: flex;
+}
 li{
-margin-right: 20px;
+    display: flex;
+    margin-right: 20px;
 
 }
 .about{
@@ -52,6 +63,9 @@ margin-right: 20px;
 .work{
     display: flex;
         
+}
+.contact-me{
+    display: flex;
 }
 .gallery{
     display: flex;
