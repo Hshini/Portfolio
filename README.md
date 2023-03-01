@@ -19,8 +19,6 @@ Click Contact Me  for my contact info
 
 Please refer to the LICENSE in the repo.
 
-```
-
 
 ## Deployment
 https://hshini.github.io/Portfolio/
