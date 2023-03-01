@@ -10,7 +10,7 @@ N/A
 
 Click About Me for more info,
 Click work  for my recent projects
-Click Contact Me  for my  my contact info
+Click Contact Me  for my contact info
 
 ![Portfolio](./Assets/Images/Untitled.png)
 
