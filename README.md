@@ -8,6 +8,9 @@ N/A
 
 ## Usage
 
+Click About Me for more info,
+Click work  for my recent projects
+Click Contact Me  to  find my contact info
 
 ## License
 
