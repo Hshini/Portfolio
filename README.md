@@ -4,7 +4,7 @@
 My name is Halim, I like programming. I live in New York City, on this page you will find information about me, my work, and my contact.
 ## Installation
 N/A
-[Click-Here To Start](https://hshini.github.io/React-Portfolio/)<br>
+[Click-Here To Start](https://hshini.github.io/Portfolio/)<br>
 
 ## Usage
 Click About Me for more info,
